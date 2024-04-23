@@ -1,3 +1,5 @@
+# Copyright 2023 SBOM Strategies
+# Licensed under the wine for work license. You can use this if you send me a bottle of red wine
 import subprocess
 import pandas as pd
 import yaml
